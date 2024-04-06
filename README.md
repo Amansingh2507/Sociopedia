@@ -6,6 +6,7 @@ Full Stack Social Media Web App built with MERN
 
 ## Deployment:
 - [Vercel Deployment](https://sociopedia-app.vercel.app)
+- [DigitalOcean API Deployment](https://urchin-app-v2nci.ondigitalocean.app)
 ## Snapshot:
 <img src="dark_theme_ss.png" width="1200">
 
